@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <removed_mapping ext="html" approved="true" type="HTML" />
+      <mapping pattern="GGU_spravka_student" type="Native" />
+      <mapping pattern="Новый контрагент" type="PHP" />
+      <mapping pattern="Подставить кассу по создателю записи" type="PHP" />
+      <mapping pattern="Данные" type="PHP" />
+      <mapping ext="sql" type="PLAIN_TEXT" />
+      <removed_mapping ext="sql" approved="true" type="SQL" />
+      <mapping ext="html" type="Smarty" />
+    </extensionMap>
+  </component>
+</application>
